@@ -60,6 +60,15 @@
         <mxCell id="1I3xp7IfUWpvPqsxr5wW-13" value="게시글 등록" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="189" y="177" width="150" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="RPtS-CMmjxbK0S65vvqV-2" value="게시글 댓글 작성" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="471" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RPtS-CMmjxbK0S65vvqV-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1I3xp7IfUWpvPqsxr5wW-2" target="RPtS-CMmjxbK0S65vvqV-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="259" as="sourcePoint" />
+            <mxPoint x="590" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
